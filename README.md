@@ -7,8 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=MfU5wLFiniI">YouTube</a>
 
 Laravel, MySQL, HTML, CSS, JavaScript.
 
 
+
+
+[![Alt text](https://img.youtube.com/vi/MfU5wLFiniI/0.jpg)](https://www.youtube.com/watch?v=MfU5wLFiniI)
