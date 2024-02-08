@@ -1,0 +1,5 @@
+@include('template.encabezado')
+  @include('template.menu')
+  @yield('contenido_central')
+  @yield('contenido_central2')
+@include('template.pie')
