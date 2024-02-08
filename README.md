@@ -9,7 +9,6 @@
 
 <a href="https://www.youtube.com/watch?v=MfU5wLFiniI">YouTube</a>
 
-
-## About Laravel
+Laravel, MySQL, HTML, CSS, JavaScript.
 
 
